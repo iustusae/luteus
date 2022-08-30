@@ -635,8 +635,8 @@
 		{
 			"name": "Dark Orange",
 			"scope":[
-				"keyword.control.import.python",
-				"variable.other.object.property.java"
+				"keyword.control.import",
+				"variable.other.object.property"
 			],
 			"settings": {
 				"foreground": "#d24e01",
@@ -669,7 +669,7 @@
 		{
 			"name": "Even More Less Dark Orange",
 			"scope":[
-				"storage.type.generic.java"
+				"storage.type.generic"
 
 			],
 			"settings": {
@@ -680,9 +680,9 @@
 		{
 			"name": "Even More More Less Dark Orange",
 			"scope":[
-				"meta.member.access.python",
+				"meta.member.access",
 				"entity.name.tag.html",
-				"storage.type.java"
+				"storage.type"
 			],
 			"settings": {
 				"foreground": "#ec9006",
@@ -705,8 +705,8 @@
 		},{
 			"name": "MORE Even More More Less Dark Orange",
 			"scope":[
-				"keyword.control.flow.python",
-				"variable.other.readwrite.js",
+				"keyword.control.flow",
+				"variable.other.readwrite",
 				"entity.name.function",
 				"keyword.operator.increment-decrement"
 			],
@@ -717,10 +717,10 @@
 		},{
 			"name": "THERE IS STILL MORE Even More More Less Dark Orange",
 			"scope":[
-				"meta.function-call.arguments.python",
+				"meta.function-call.arguments",
 				"entity.other.attribute-name.html",
-				"storage.type.function.js",
-				"storage.type.primitive.java",
+				"storage.type.function",
+				"storage.type.primitive",
 				"support.type.property-name"
 			],
 			"settings": {
@@ -763,9 +763,9 @@
 		{
 			"name": "MISC - 2 ",
 			"scope":[
-				"storage.type.js",
+				"storage.type",
 				"string.json",
-				"storage.modifier.import.java",
+				"storage.modifier.import",
 				"string.quoted.double",
 			
 				
@@ -778,8 +778,8 @@
 		},{
 			"name": "MISC - 3",
 			"scope":[
-				"keyword.control.conditional.js",
-				"support.type.property-name.json",
+				"keyword.control.conditional",
+				"support.type.property-name",
 				"storage.modifier",
 				"keyword.control.at-rule.media.css","punctuation.definition.keyword.css"
 				
@@ -791,8 +791,8 @@
 		},{
 			"name": "MISC - 4 ",
 			"scope":[
-				"entity.name.function.js",
-				"storage.type.function.python"
+				"entity.name.function",
+				"storage.type.function"
 				
 			],
 			"settings": {
@@ -802,9 +802,9 @@
 		},{
 			"name": "MISC - 5",
 			"scope":[
-				"support.variable.property.js",
-				"entity.name.function.python",
-				"keyword.other.package.java"
+				"support.variable.property",
+				"entity.name.function",
+				"keyword.other.package"
 				
 			],
 			"settings": {
@@ -819,7 +819,7 @@
 			"name": "MISC - 6",
 			"scope":[
 				"meta.object-literal.key.js",
-				"variable.parameter.function.language.python",
+				"variable.parameter.function.language",
 				"storage.type.object.array",
 				"keyword.control",
 				"constant.numeric.dec"
@@ -838,7 +838,7 @@
 			"name": "boolean",
 			"scope":[
 				"constant.language.boolean.true",
-				"keyword.other.import.java",
+				"keyword.other.import",
 				"constant.language.boolean.false"
 				
 			],
@@ -855,7 +855,7 @@
 		{
 			"name": "MISC - 5",
 			"scope":[
-				"support.variable.property.js",
+				"support.variable.property",
 				"entity.other.attribute-name.id.css","punctuation.definition.entity.css"
 				
 				
