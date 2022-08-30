@@ -4,7 +4,7 @@
 		"editor.background": "#262727",
 		"editor.foreground": "#ffffff",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#bbbbbb"cd
 	},
 	"tokenColors": [
 		{
@@ -330,11 +330,12 @@
 			"name": "Decorators",
 			"scope": [
 				"tag.decorator.js entity.name.tag.js",
-				"tag.decorator.js punctuation.definition.tag.js"
+				"tag.decorator.js punctuation.definition.tag.js",
+				"entity.name.function.decorator","punctuation.definition.decorator"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"fontStyle": "italic bold",
+				"foreground": "#F28482"
 			}
 		},
 		{
