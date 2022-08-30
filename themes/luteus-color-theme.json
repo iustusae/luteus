@@ -15,7 +15,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic bold",
-				"foreground": "#f9ddb1"
+				"foreground": "#ffd949"
 			}
 		},
 		{
@@ -646,7 +646,8 @@
 		{
 			"name": "Bit Less Dark Orange",
 			"scope":[
-				"variable.other.object.java"
+				"variable.other.object",
+				"support.function.misc.css"
 			],
 			"settings": {
 				"foreground": "#dc6601",
@@ -719,7 +720,8 @@
 				"meta.function-call.arguments.python",
 				"entity.other.attribute-name.html",
 				"storage.type.function.js",
-				"storage.type.primitive.java"
+				"storage.type.primitive.java",
+				"support.type.property-name"
 			],
 			"settings": {
 				"foreground": "#f5c77e",
@@ -778,7 +780,8 @@
 			"scope":[
 				"keyword.control.conditional.js",
 				"support.type.property-name.json",
-				"storage.modifier"
+				"storage.modifier",
+				"keyword.control.at-rule.media.css","punctuation.definition.keyword.css"
 				
 			],
 			"settings": {
@@ -853,6 +856,7 @@
 			"name": "MISC - 5",
 			"scope":[
 				"support.variable.property.js",
+				"entity.other.attribute-name.id.css","punctuation.definition.entity.css"
 				
 				
 			],
@@ -872,7 +876,8 @@
 				"meta.object-literal.key.js",
 				"variable.parameter.function.language.python",
 				"storage.type.object.array",
-				"string.unquoted.preprocessor.message.cs"
+				"string.unquoted.preprocessor.message.cs",
+				"support.function.gradient.css"
 				
 			],
 			"settings": {
@@ -931,6 +936,18 @@
 		},
 
 
+
+		{
+			"name": "MISC - 6",
+			"scope":[
+				"entity.other.attribute-name.pseudo-class.css"
+				
+			],
+			"settings": {
+				"foreground": "#442D57",
+				"fontStyle": "italic bold "
+			}
+		},
 
 
 
