@@ -1,0 +1,21 @@
+{
+  "name": "luteus",
+  "displayName": "luteus",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "luteus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/luteus-color-theme.json"
+      }
+    ]
+  }
+}
